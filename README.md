@@ -3,7 +3,7 @@
 </p>
 
 -------
-Projeto desenvolvido para praticar as habilidades com React, Material UI e a utilização de Axios API
+Projeto desenvolvido para praticar as habilidades com React, Material UI e a utilização de Axios com a integração da API do PokeAPI
 
 ## 💻 Tecnologias
 - React
@@ -21,4 +21,5 @@ Projeto desenvolvido para praticar as habilidades com React, Material UI e a uti
     - Cards
     - Navbar
     - Skeleton
+    - Container
     
