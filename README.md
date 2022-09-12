@@ -8,7 +8,7 @@ Projeto desenvolvido para praticar as habilidades com React, Material UI e a uti
 ## 💻 Tecnologias
 - React
 - Material UI
-- Axios API
+- Axios 
 
 ## 💬 Aplicações
 
