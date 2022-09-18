@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="./public/assets/pokemon-logo.png">
+    <img width="300" src="./public/assets/preview.png">
 </p>
 
 -------
